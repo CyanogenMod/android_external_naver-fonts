@@ -10,6 +10,8 @@ font files:
 1. Remove 4,888 Chinese characters
 2. Remove non-Korean characters other than ASCII (up to U+007F)
 3. Remove hints
+4. Passing the fonts through Noto's identical subsetter (that also converts
+the post table to version 3.0)
 
 Shawn Kwon at NHN <kss@nhn.com> has given permission to use the reserved
 font name with these modified versions of NanumGothicBold.ttf and
